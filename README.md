@@ -69,6 +69,8 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 
 - **Dynamic Array via Tree Map** — Extend the above with dynamic resizing, and explore optimal resize factors (analogous to amortized doubling in imperative arrays).
 
+- **Splay tree** - Splay trees are binary trees that will tend to have the more recently accessed elements closer to the root, and it does so without maintaining any additional metadata. Each time an element is accessed, it gets moved to the root.
+
 ---
 
 ## Algorithms
@@ -198,6 +200,9 @@ A curated list of project ideas for a Haskell course. All projects are accesible
   - [Interpolation Search — Perl et al.](https://csaws.cs.technion.ac.il/~itai/publications/Algorithms/p550-perl.pdf)
   - [Understanding the Complexity of Interpolation Search](https://www.academia.edu/22235408/Understanding_the_complexity_of_interpolation_search)
 
+- **Myer's String Diff** - Display the differences between two strings in a meaningful way, similar to github's diff.
+  - [James Colgan's exposition on Myer's Algorithm](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+  - [Robert Elder's Interavtive](https://blog.robertelder.org/diff-algorithm/)
 ---
 
 ## Contributing
