@@ -1,6 +1,6 @@
 # Awesome Haskell Course Projects
 
-A curated list of project ideas for a Haskell course — ranging from beginner-friendly to research-level. Projects span cryptography, algorithms, numerical methods, compilers, finance, and more.
+A curated list of project ideas for a Haskell course. All projects are accesible to undergrads and can be expanded to more involved projects as well. Projects span cryptography, algorithms, numerical methods, compilers, finance, and more.
 
 ---
 
@@ -81,8 +81,6 @@ A curated list of project ideas for a Haskell course — ranging from beginner-f
 
 - **Genetic Algorithm for Travelling Salesman** — Apply a genetic algorithm to find approximate solutions to TSP.
 
-- **Approximation Algorithms** — *(To be added.)*
-
 - **GitHub Stats Grade & Roadmap** — Given a GitHub profile, compute its "grade" (see the [github-readme-stats ranking formula](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)) and use a knapsack or greedy algorithm to generate a roadmap to the next grade tier (commits, PRs, followers, repos, etc.), with distinct strategies for creators vs. maintainers.
 
 ---
@@ -93,8 +91,6 @@ A curated list of project ideas for a Haskell course — ranging from beginner-f
 
 - **Lempel-Ziv Compression** — Implement LZ77/LZ78 compression from scratch.
   - [Lempel-Ziv Explained (YouTube)](https://www.youtube.com/watch?v=XAVErTBr2Ik)
-
-  > ⚠️ *May be converted to a course exercise and removed from this list.*
 
 ---
 
@@ -197,4 +193,4 @@ A curated list of project ideas for a Haskell course — ranging from beginner-f
 
 ## Contributing
 
-If you have a project idea that fits this course's themes — functional programming, algorithms, mathematics, or systems — feel free to open an issue or pull request.
+If you have a project idea that fits this course's themes or a resource we didn't mention, feel free to open an issue or pull request. If you implement any of these, ideally in Haskell but any FP is fine, do send it our way.
