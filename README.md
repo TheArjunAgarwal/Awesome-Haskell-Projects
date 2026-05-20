@@ -76,6 +76,7 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 ## Algorithms
 
 - **MiniSAT Solver** — Implement a SAT solver. A naïve O(n² · 2ⁿ) approach is a starting point; the stretch goal is to approach DPLL or CDCL for meaningful speedups.
+  - Although this is somewhat technical and terse, might still help. [Andrew Gibiansky on writing a SAT Solver](https://www.gibiansky.com/blog/verification/writing-a-sat-solver/index.html) 
 
 - **List Shuffling (Merge Shuffle)** — Implement an efficient, unbiased list shuffle in Haskell using a merge-based approach.
 
