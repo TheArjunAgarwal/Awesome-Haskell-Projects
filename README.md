@@ -163,6 +163,7 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 ## Finance
 
 - **Financial Contracts (Composing Contracts)** — Implement a combinator library for describing and evaluating financial derivatives. Based on [*Composing Contracts: An Adventure in Financial Engineering* — Peyton Jones et al.](https://www.cs.tufts.edu/~nr/cs257/archive/simon-peyton-jones/contracts.pdf).
+  - [A presentation on Smart Contracts](https://hackmd.io/@alexhkurz/HJv_pRF69#/)
 
 - **Kelly Criterion on Uncertain Data** — Apply the Kelly Criterion to bet sizing under uncertainty, incorporating concepts from ergodicity economics.
 
