@@ -87,7 +87,12 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 
 ## Compression & Encoding
 
-- **Huffman Codes / QR Codes** — Implement Huffman encoding for optimal prefix-free compression; optionally extend to QR code generation.
+- **Streaming Compression via Huffman Codes** — Implement Streaming Huffman encoding for optimal prefix-free compression; as a stretch goal, maybe implement other encoding as well.
+  - [Justin Le on Streaming Huffman Compression](https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html)
+
+- **QR code generation** - Understand the protocols to generate QR codes and make an encoder that encodes a string to QR code.
+  -  [Veritasium's Video on QR Codes](https://www.youtube.com/watch?v=w5ebcowAJD8&pp=ygUSdmVyaXRhc2l1bSBxciBjb2Rl)
+  -  [Another incredible video explaining the workings](https://www.youtube.com/watch?v=H289YBQo7VI&pp=ygUSdmVyaXRhc2l1bSBxciBjb2Rl)
 
 - **Lempel-Ziv Compression** — Implement LZ77/LZ78 compression from scratch.
   - [Lempel-Ziv Explained (YouTube)](https://www.youtube.com/watch?v=XAVErTBr2Ik)
@@ -110,6 +115,9 @@ A curated list of project ideas for a Haskell course. All projects are accesible
   - *Medium*: layout-aware pretty printing
   - *Hard*: typeset to another language (e.g. Haskell → LaTeX)
   - Based on [*A Prettier Printer* — Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf)
+
+- **Make a Static Site Generator** - Implement a Static Site or Blog generator. Can add more customization based on how much complexity you are willing to undertake.
+  - The very instructive and innovative [Learn Haskell by building a blog generator](https://learn-haskell.blog/01-about.html)
 
 - **Mini Qiskit + Bernstein-Vazirani Algorithm** — Implement a minimal quantum circuit simulator and use it to run the Bernstein-Vazirani algorithm.
   - [Quantum Computing Intro (ivaniscoding)](https://ivaniscoding.github.io/posts/quantum1/)
