@@ -159,7 +159,9 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 
 - **Palindrome Record Attempt** — Attempt to find or construct extremely long palindromes, following the approach described in [*Natural Language Palindromes* — Peter Norvig](https://norvig.com/palindrome.html).
 
-- **Find Simpson: Fermat and Beal Solutions** — Search for counterexamples (or near-misses) to Fermat's Last Theorem and the Beal conjecture over bounded integer ranges.
+- **Find Simpson: Fermat and Beal Solutions** — Search for counterexamples (or near-misses) to Fermat's Last Theorem and the Beal conjecture over bounded integer ranges. A stretch goal could be to consider conjuctures on Gaussian integers.
+  - [Peter Norivig's Approach](https://norvig.com/beal.html)
+  - [On the (often neglected) Gaussians](https://www.mathpuzzle.com/Gaussians.html)
 
 ---
 
