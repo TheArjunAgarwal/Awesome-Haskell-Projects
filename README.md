@@ -92,6 +92,7 @@ A curated list of project ideas for a Haskell course. All projects are accesible
 
 - **Streaming Compression via Huffman Codes** — Implement Streaming Huffman encoding for optimal prefix-free compression; as a stretch goal, maybe implement other encoding as well.
   - [Justin Le on Streaming Huffman Compression](https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html)
+  - [Marcelo Lazaroni on Huffman Codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 
 - **QR code generation** - Understand the protocols to generate QR codes and make an encoder that encodes a string to QR code.
   -  [Veritasium's Video on QR Codes](https://www.youtube.com/watch?v=w5ebcowAJD8&pp=ygUSdmVyaXRhc2l1bSBxciBjb2Rl)
